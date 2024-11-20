@@ -9,4 +9,5 @@ Second image shows how the thread looks like when you go into it
 ![image](https://github.com/user-attachments/assets/4b366d1e-0dd4-45db-9aaf-dcc938c4cd77)
 
 Third image shows the tags you can auto assign these images when they get pushed through
-![image](https://github.com/user-attachments/assets/a286a630-e50b-4194-ae61-372cc90f8768)
+![image](https://github.com/user-attachments/assets/ca5c6d12-0cc5-4438-96d1-5b5f02731811)
+
